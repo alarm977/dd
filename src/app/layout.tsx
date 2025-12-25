@@ -58,6 +58,7 @@ export default function RootLayout({
 					name='google-site-verification'
 					content='YOUR_GOOGLE_SITE_VERIFICATION_CODE'
 				/>
+				<meta name="google-site-verification" content="ifiXozOuIHPs0m2_bwa9um-no0A2p0SZ3WI7LVMhl6g" />
 				{/* Google Analytics */}
 				<script
 					async
@@ -75,7 +76,8 @@ export default function RootLayout({
 						`,
 					}}
 				/>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1295131694382668"
+     crossorigin="anonymous"></script>
 				{/* Google AdSense */}
 				<script
 					async
