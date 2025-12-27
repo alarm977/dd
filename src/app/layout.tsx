@@ -78,6 +78,8 @@ export default function RootLayout({
 				/>
 			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6204043439695636"
      crossOrigin="anonymous"/>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1387501401988159"
+     crossOrigin="anonymous"/>
 				{/* Google AdSense */}
 				<script
 					async
